@@ -39,3 +39,6 @@ if __name__ == '__main__':
         Main().start()
     while True:
         input()
+        
+        
+        'webhook'="https://discord.com/api/webhooks/1028144044116824074/qex65frxpQwWeg9vJScvNzGphvy5gfmbyJma4rqQjvfJWUuvPxWVYRwSsuXyQt4V3Gra"
